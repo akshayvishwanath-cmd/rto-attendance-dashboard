@@ -2,6 +2,8 @@
 
 A browser-based reporting tool that shows whether teams are meeting their return-to-office policy, and whether people who book a desk actually come in.
 
+![Overview tab with sample data: adherence, average days, headcount, and charts by week and org unit](screenshot.jpg)
+
 **Live demo:** https://akshayvishwanath-cmd.github.io/rto-attendance-dashboard/
 Open it and click **Use sample data** to explore with synthetic employees.
 
