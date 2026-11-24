@@ -1,0 +1,25 @@
+# Secrets: never commit these
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*.json
+.claude/settings.local.json
+
+# Dependencies and builds
+node_modules/
+dist/
+build/
+.next/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS and editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
